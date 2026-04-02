@@ -28,12 +28,12 @@ The goal of this project is to practice Angular concepts like:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Antonio-Borrero/Angular-pipes-app.git
+   git clone https://github.com/Antonio-Borrero/pipes-app-angular.git
    ```
 
 2. Enter the project folder:
    ```bash
-   cd Angular-pipes-app
+   cd pipes-app-angular
    ```
    
 3. Install dependencies:
