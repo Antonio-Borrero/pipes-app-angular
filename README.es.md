@@ -7,6 +7,10 @@ Español | [English](README.md)
 [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![daisyUI](https://img.shields.io/badge/daisyUI-FDE047?logo=daisyui&logoColor=black)](https://daisyui.com/)
 
+![Pipes Preview](assets/preview.png)
+
+<br>
+
 Este es un proyecto de **aprendizaje y práctica** creado con Angular para explorar y comprender cómo funcionan los **pipes integrados y personalizados**.
 La aplicación muestra diferentes ejemplos de pipes, como **transformaciones de texto, formato de fechas y pipes personalizados**, utilizando componentes de UI reutilizables y datasets tipados.  
 El objetivo de este proyecto es practicar conceptos de Angular como:
@@ -17,6 +21,8 @@ El objetivo de este proyecto es practicar conceptos de Angular como:
 - Organización de componentes reutilizables
 - Uso de datasets tipados en aplicaciones Angular
 
+<br>
+
 ## Tecnologías
 
 - Angular 21
@@ -24,28 +30,30 @@ El objetivo de este proyecto es practicar conceptos de Angular como:
 - Tailwind CSS
 - daisyUI
 
+<br>
+
 ## Instalación
 
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/Antonio-Borrero/pipes-app-angular.git
    ```
-
-2. Entrar a la carpeta del proyecto:
-   ```bash
-   cd pipes-app-angular
-   ```
-3. Instalar dependencias:
+   
+2. Instalar dependencias:
    ```bash
    npm install
    ```
-4. Servidor de desarrollo:
+   
+3. Ejecutar el Servidor de desarrollo:
    ```bash
    ng serve
    ```
-5. Abrir en el navegador:
+   
+4. Abrir en el navegador:
    - Ir a http://localhost:4200/.
    - La aplicación se recargará automáticamente al modificar cualquier archivo
+
+<br>
 
 ## Funcionalidades
 
@@ -69,6 +77,8 @@ El objetivo de este proyecto es practicar conceptos de Angular como:
 - Navegación con navbar responsiva
 - Estilos con TailwindCSS y DaisyUI
 
+<br>
+
 ## Aprendizajes
 
 - Cómo funcionan los pipes de Angular
@@ -76,6 +86,8 @@ El objetivo de este proyecto es practicar conceptos de Angular como:
 - Formateo de datos en plantillas
 - Organización de componentes reutilizables
 - Uso de datasets tipados con pipes
+
+<br>
 
 ## Estructura del proyecto
 
@@ -95,6 +107,8 @@ El objetivo de este proyecto es practicar conceptos de Angular como:
     ├───pipes                  # Pipes personalizados de Angular
     └───services               # Servicios de la aplicación
 ```
+
+<br>
 
 ## Producción
 ```bash
