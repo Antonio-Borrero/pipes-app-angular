@@ -11,7 +11,7 @@ Español | [English](README.md)
 
 <br>
 
-Este es un proyecto de **aprendizaje y práctica** creado con Angular para explorar y comprender cómo funcionan los **pipes integrados y personalizados**.
+Este es un proyecto de **aprendizaje y práctica** creado con Angular como parte del **curso de Angular de DevTalles (Fernando Herrera)** para explorar y comprender cómo funcionan los **pipes integrados y personalizados**.
 La aplicación muestra diferentes ejemplos de pipes, como **transformaciones de texto, formato de fechas y pipes personalizados**, utilizando componentes de UI reutilizables y datasets tipados.  
 El objetivo de este proyecto es practicar conceptos de Angular como:
 
