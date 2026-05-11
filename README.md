@@ -11,7 +11,7 @@ English | [Español](README.es.md)
 
 <br>
 
-This is a **learning and practice project** built with Angular to explore and understand how **built-in and custom pipes** work.
+This is a **learning and practice project** built with Angular as part of the **DevTalles (Fernando Herrera) Angular Course** to explore and understand how **built-in and custom pipes** work.
 The application demonstrates different examples of pipes such as **text transformations, date formatting, and custom pipe implementations**, using reusable UI components and typed datasets.
 The goal of this project is to practice Angular concepts like:
 
